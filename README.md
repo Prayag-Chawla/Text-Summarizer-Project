@@ -13,6 +13,7 @@ In abstraction-based summarization, advanced deep learning techniques are applie
 
 Now, we will be using different different models corresponding to deep learning to build a solution to our problem statement. The code is basically python. We have imported various dictionaries, took reference from various libraries and did the project.
 
+![basic template](https://user-images.githubusercontent.com/92213377/215314392-269cf40f-8b11-4a6f-aa38-842a57af00e9.png)
 
 ## Description
 
@@ -69,4 +70,8 @@ We got an accuracy of 85.25 % in this model. We ran various epochs and used effi
 
 The project is used by a lot of social media companies to analyse their market.
 
+## OUTPUT
+![image](https://user-images.githubusercontent.com/92213377/215314364-e35add37-73ec-43db-9a65-181a0bf42cb8.png)
+![basic template](https://user-images.githubusercontent.com/92213377/215314392-269cf40f-8b11-4a6f-aa38-842a57af00e9.png)
+![image](https://user-images.githubusercontent.com/92213377/215314425-3ed258ad-e896-445b-b20a-c2c569b750f6.png)
 
